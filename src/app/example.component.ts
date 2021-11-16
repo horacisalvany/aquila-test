@@ -133,7 +133,7 @@ export class ExampleComponent implements OnInit, AfterViewInit {
       d1: {
         id: 'd1',
         logic: { triggerEvent: 'd1Data', dependents: ['d2'] },
-        template: { elements: null, label: 'Dropdown 1' }
+        template: { elements: null, label: '33' }
       },
       d2: {
         id: 'd2',
